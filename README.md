@@ -1,1 +1,1 @@
-Huddle Landing Page from Frontend-mentor for Practicing CSS
+Huddle Landing Page Using CSS Grid
